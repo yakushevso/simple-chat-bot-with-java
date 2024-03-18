@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+build
+out
+
+# idea config
+.idea
+
+# stages
+/Simple Chat Bot with Java/Meet your chat bot/
+/Simple Chat Bot with Java/Introduce yourself/
+/Simple Chat Bot with Java/Let the chat bot guess your age/
+/Simple Chat Bot with Java/Teach your bot to count/
+/Simple Chat Bot with Java/Play a simple quiz together/
